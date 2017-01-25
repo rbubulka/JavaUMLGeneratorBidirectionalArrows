@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Set;
 
 import parsers.ClassParser.ClassParser;
-public class BidirectionalArrowParser extends ClassParser {
+public class BiCheck extends ClassParser {
 
 	public BidirectionalArrowParser(ClassParser other) {
 		super(other);
